@@ -87,7 +87,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <title>Sistema de Gerenciamento de Eventos</title>
+  <title>Sistema de Gerenciamento: BPE </title>
   <style>
     :root {
       --primary: #2c3e50;
@@ -221,7 +221,7 @@
 <body>
   <nav class="navbar">
     <div class="container">
-      <h1>Sistema de Gerenciamento de Eventos</h1>
+      <h1>Sistema de Gerenciamento: BPE </h1>
     </div>
   </nav>
 
