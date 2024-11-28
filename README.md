@@ -1,5 +1,5 @@
 Gerenciamento De Eventos: BPE
- 
+
 Bem-vindo ao Gerenciamento De Eventos: BPE! Este site foi criado para facilitar o gerenciamento de eventos de maneira simples e eficiente. Com ele, você pode criar novos eventos, listar os eventos existentes e até deletar eventos que não são mais necessários.
 
 O que você pode fazer aqui:
@@ -31,5 +31,8 @@ Funcionalidades principais:
 Criar Evento: Preencha o formulário e registre o evento.
 Listar Eventos: Veja todos os eventos cadastrados.
 Excluir Evento: Remova um evento da lista quando não for mais necessário.
+Por trás da tela:
+O site é desenvolvido com PHP e MySQL, que são responsáveis pelo processamento dos formulários e pela interação com o banco de dados, onde as informações dos eventos são armazenadas. A interface foi construída com HTML e CSS, e a interatividade extra foi adicionada utilizando JavaScript e jQuery.
+
 Por trás da tela:
 O site é desenvolvido com PHP e MySQL, que são responsáveis pelo processamento dos formulários e pela interação com o banco de dados, onde as informações dos eventos são armazenadas. A interface foi construída com HTML e CSS, e a interatividade extra foi adicionada utilizando JavaScript e jQuery.
