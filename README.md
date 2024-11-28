@@ -1,55 +1,41 @@
-#Gerenciamento De Eventos: BPE
+Gerenciamento De Eventos: BPE
+Bem-vindo ao Gerenciamento De Eventos: BPE! Este site foi criado para ajudar você a gerenciar eventos de forma simples e eficiente. Através dele, você pode criar novos eventos, listar os eventos existentes e até deletar eventos que não são mais necessários.
 
-Este website que foi criado para ajudar você no gerenciamento dos eventos da forma mais simples e eficiente possível. Through it, you may initiate new events, along the list of existent events, and even delete events not needed anymore.
-
-Você pode fazer o seguinte aqui:
-
+O que você pode fazer aqui:
 1. Criar um Evento
+Na aba "Criar Evento", você pode facilmente cadastrar um novo evento. Basta preencher alguns dados importantes, como:
 
-On the “Create Event” tab, you can conveniently enter the event information into the system just by inserting the data the event has. You can simply add the name of the event,
-
-Event name
-
+Nome do evento
 Data do evento
-
-Local
-
-Description
-
+Localização
+Descrição
 Capacidade máxima de participantes
-
-After you have entered these fields and submitted the form, the event is recorded and automatically included in the event list.
+Após a inserção desses campos e submissão do formulário, o evento será cadastrado no sistema e irá automaticamente para a lista de eventos.
 
 2. Visualizar Eventos
+Aba "Listar Eventos" permite que você visualize todos os eventos cadastrados. Nesta lista, você poderá ver detalhes como:
 
-In "List Events", the user is able to see all the registered events. In that list, users will see details such as:
-
-Event name
-
-Date and time
-
-Location
-
-Description
-
-Participants]
-
+Nome do evento
+Data e hora
+Localização
+Descrição
+Capacidade de participantes
 3. Deletar um Evento
+Caso queira remover algum evento da lista, basta clicar no botão Deletar ao lado do evento correspondente. Isso excluirá o evento do banco de dados permanentemente.
 
-If you wish to remove the event from the list, the only thing you need to do is to click on the Delete button beside the event that you want to remove. But this deletes the event completely from the database.
+Como funciona?
+O sistema é bem simples e direto. Quando você preenche o formulário para criar um evento, ele é armazenado em um banco de dados. Em seguida, você pode visualizar os eventos já criados ou excluir aqueles que não são mais necessários.
 
-How does it work?
+Funcionalidades principais:
+Criar Evento: Preencha o formulário e registre o evento.
+Listar Eventos: Veja todos os eventos cadastrados.
+Excluir Evento: Remova um evento da lista quando não for mais necessário.
+Por trás da tela:
+O site é feito com PHP e MySQL, que processam o envio dos formulários, fazem a interação com o banco de dados. MySQL guarda todas informações dos eventos. A interface foi feita com HTML e CSS e interatividade extra adicionada com JavaScript and jQuery.
 
-The system is very straightforward and you just need to follow the instructions. You create an event by filling out the form which is then stored in a database. Afterward, you can review created events or simply delete the ones that are not needed anymore.
+ Melhorias Futuras
+Aqui vão algumas ideias que podem deixar o site ainda mais útil:
 
-Main features:
-
-Create Event: Fill out the form and register the event.
-
-List Events: See all the events that are currently running
-
-Delete Event: Take off an event from the list when the event is no longer necessary.
-
-Behind the scenes:
-
-The website is built using PHP and MySQL. Php controls form submission and links with the database whilst MySQL is the one that keeps all the event information. The interface is really intuitive as it is created with HTML and CSS, and more interactivity was added through JavaScript and jQuery.
+Sistema de Inscrições: Permitir que as pessoas se inscrevam nos eventos e verificar se a capacidade foi atingida.
+Login de Usuários: Para que diferentes pessoas possam gerenciar os eventos de forma mais segura.
+Validaçõe
